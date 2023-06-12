@@ -215,6 +215,11 @@
     margin: 1rem 0;
     border: none;
     border-radius: 5rem;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background: var(--clr-grad-light-royal-blue);
   }
 
   @media(min-width: 867px) {
